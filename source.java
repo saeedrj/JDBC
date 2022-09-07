@@ -1,7 +1,7 @@
 package book.bookdto;
 import java.sql.*;
 
-public class MainClass {
+public class source {
         public static void main(String[] args) {
             Connection con=null;
             try {
